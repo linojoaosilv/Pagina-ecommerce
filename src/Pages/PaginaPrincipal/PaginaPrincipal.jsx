@@ -1,14 +1,19 @@
 import HeaderLoja from "../../Components/Header/HeaderLoja";
-import './PaginaPrincipal.className'
+import './PaginaPrincipal.css'
 
 function PaginaPrincipal(){
     return(
         <div>
             <HeaderLoja/>
-            <section className="seção-banner">
-              
+
+            {/* trocar essa seção dps  */}
+            <section className="seção-banner"/> 
+            
+            <section className="seção-listadeprodutos">
+                <div >
+
+                </div>
             </section>
-        
         
         </div>
     )
