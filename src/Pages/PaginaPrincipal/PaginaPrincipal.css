@@ -1,0 +1,15 @@
+.seção-banner{
+    background-image:url("https://marketplace.canva.com/EAFb9QOJg5g/1/0/1600w/canva-banner-para-loja-online-frete-gr%C3%A1tis-mercado-shops-m%C3%A9dio-paTGOKamJ9A.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 300px;
+}
+
+.seção-banner p{
+    color: white;
+    font-size: 40px;
+}
